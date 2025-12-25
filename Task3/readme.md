@@ -60,10 +60,6 @@ Build and compare machine learning models to predict whether a patient is at ris
 - Importance of evaluation beyond accuracy
 - Trade-offs between interpretable and flexible models
 
----
-
-## Disclaimer
-This project is for educational purposes only and must not be used for real medical diagnosis.
 
 ---
 
