@@ -1,4 +1,4 @@
-# AI/ML Internship Task – Dataset Exploration and Visualization
+# Dataset Exploration and Visualization
 
 ## Objective
 To explore and visualize a structured dataset in order to understand data distributions, feature relationships, and overall data quality before applying machine learning models.
