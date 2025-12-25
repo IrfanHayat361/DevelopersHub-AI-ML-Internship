@@ -25,8 +25,8 @@ AI-ML-Internship/
 │   ├── iris_exploration.ipynb
 │   └── README.md
 │
-├── Task-02-Next-Project/
-│   ├── notebook.ipynb
+├── Task-02-Stock_Price_Prediction/
+│   ├── stock_price_prediction.ipynb
 │   └── README.md
 │
 └── README.md
