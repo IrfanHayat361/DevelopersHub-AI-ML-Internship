@@ -29,6 +29,10 @@ AI-ML-Internship/
 │   ├── stock_price_prediction.ipynb
 │   └── README.md
 │
+└──Task-03-Heart_Disease_Prediction/
+│   ├── heart_disease_prediction.ipynb
+│   └── heart.csv
+│   └── README.md  
 └── README.md
 ```
 
